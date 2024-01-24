@@ -21,4 +21,4 @@ Transaction Tracking: Keep a record of all transactions made within the system f
     These defined colors have also been used in coloring specific text outputs in various locations<br>
     throughout the program.<br><br>
 
-**Note: Please refrain from submitting this code as your university project. We disclaim<br>any responsibility for consequences arising from such actions. Instead, utilize this<br>project as a valuable resource to seek guidance and inspiration for creating<br>an outstanding university project.**
+**Note: Please refrain from submitting this code as your university project. We disclaim<br>any responsibility for consequences arising from such actions. Instead, utilize this project<br>as a valuable resource to seek guidance and inspiration for creating an out-<br>standing university project.**
