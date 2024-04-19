@@ -1,4 +1,4 @@
-# Bank-Management-System-University-Project-
+# Bank Management System University Project
 This program  is a bank management system a university project developed in C language.<br>It includes several functions for management of bank accounts. This program provides a<br>robust solution for efficient and secure banking operations.
 <br>
 <br>
