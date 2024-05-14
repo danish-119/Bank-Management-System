@@ -2,9 +2,9 @@
 This program  is a bank management system a university project developed in C language.<br>It includes several functions for management of bank accounts. This program provides a<br>robust solution for efficient and secure banking operations.
 <br>
 <br>
-# Features of the Bank Management System:<br>
-Admin Section: Perform tasks such as view detailed history  of transactions and suspend suspicious account.<br>
-Account Management: Perform tasks such as account creation, deletion, and balance management.<br>
+# Features of the Bank Management System:<be>
+<b>Admin Section:</b> Perform tasks such as view detailed history  of transactions and suspend suspicious account.<be>
+<b>Account Management:</b> Perform tasks such as account creation, deletion, and balance management.<br>
 Transaction Tracking: Keep a record of all transactions made within the system for auditing purposes.
 <br><br>
  <b>Menu Selection:</b>
