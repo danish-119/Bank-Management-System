@@ -16,12 +16,4 @@ The Bank Management System project is designed to provide users with essential b
 <b>Transaction Tracking:</b> Keep a record of all transactions made within the system for auditing purposes.
 
 
-## Project Details
-
-- **Group Members**:
-  - Muhammad Danish (FA23-BSE-105)
-  - Aneeq Ahmad Khan (FA23-BSE-033)
-  - Abdullah Rasheed (FA23-BSE-014)
-- **Instructor**: Ms. Mamoona Tasadduq
-
 
