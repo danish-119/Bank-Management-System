@@ -1,19 +1,30 @@
-# Bank Management System University Project
-This program  is a bank management system a university project developed in C language.<br>It includes several functions for management of bank accounts. This program provides a<br>robust solution for efficient and secure banking operations.
+# Bank Management System
 
 ## Description
 
-This project is a comprehensive Bank Management System implemented in C language, as Semester Project for the Programming Fundamentals course (CSC-103) at Comsats University Islamabad-Lahore Campus. The system aims to facilitate efficient management of accounts within a banking environment.
+This project is a comprehensive Bank Management System implemented in C language, developed as a Semester Project for the Programming Fundamentals course (CSC-103) at Comsats University Islamabad-Lahore Campus. The system aims to provide a robust solution for efficient and secure banking operations.
 
 ## Project Overview
 
-The Bank Management System project is designed to provide users with essential banking functionalities, including account creation, account login, admin login, and user assistance. It offers features for managing accounts effectively within a banking environment.
+The Bank Management System project is designed to offer essential banking functionalities, including account creation, account login, admin login, and user assistance. It provides features for managing accounts effectively within a banking environment, ensuring reliability and security.
 
-## Bank Management System Features:
+## Bank Management System Features
 
-<b>Admin Section:</b> Perform tasks such as view detailed history  of transactions and suspend suspicious account.<br>
-<b>Account Management:</b> Perform tasks such as account creation, deletion, and balance management.<br>
-<b>Transaction Tracking:</b> Keep a record of all transactions made within the system for auditing purposes.
+### Admin Section
 
+- **Detailed Transaction History**: View detailed histories of transactions for auditing purposes.
+- **Account Suspension**: Suspend suspicious accounts for security measures.
 
+### Account Management
 
+- **Account Creation**: Allows users to create new bank accounts.
+- **Account Deletion**: Provides functionality to delete bank accounts if needed.
+- **Balance Management**: Enables users to manage their account balances efficiently.
+
+### Transaction Tracking
+
+- **Transaction Records**: Keeps a comprehensive record of all transactions made within the system for auditing and tracking purposes.
+
+## Conclusion
+
+The Bank Management System University Project offers a robust and secure solution for managing bank accounts efficiently. With features such as detailed transaction history, account suspension, and transaction tracking, it ensures reliability and security in banking operations.
