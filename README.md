@@ -28,3 +28,4 @@ The Bank Management System project is designed to offer essential banking functi
 ## Conclusion
 
 The Bank Management System University Project offers a robust and secure solution for managing bank accounts efficiently. With features such as detailed transaction history, account suspension, and transaction tracking, it ensures reliability and security in banking operations.
+.
