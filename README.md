@@ -2,30 +2,70 @@
 
 ## Description
 
-This project is a comprehensive Bank Management System implemented in C language, developed as a Semester Project for the Programming Fundamentals course (CSC-103) at Comsats University Islamabad-Lahore Campus. The system aims to provide a robust solution for efficient and secure banking operations.
+This project is a **Bank Management System** implemented in **C language**, developed as a **Semester Project** for the Programming Fundamentals course (CSC-103) at Comsats University Islamabad-Lahore Campus.
+
+> **Note:** This is a student project for educational purposes only. It is **not a real banking system** and should not be used for actual financial transactions.
+
+The system demonstrates basic banking operations and programming concepts, including file handling, struct usage, and menu-driven applications.
+
+---
 
 ## Project Overview
 
-The Bank Management System project is designed to offer essential banking functionalities, including account creation, account login, admin login, and user assistance. It provides features for managing accounts effectively within a banking environment, ensuring reliability and security.
+The Bank Management System allows users to simulate essential banking tasks, such as account creation, login, money deposit/withdrawal, money transfer, and viewing transaction history. It also includes an admin section to manage accounts for demonstration purposes.
 
-## Bank Management System Features
+The system emphasizes:
+
+* **Educational Value:** Teaches file handling, menu-driven interfaces, and account management in C.
+* **Simulation:** All operations are performed on CSV files and do not involve real money.
+* **User Interaction:** Provides an interactive console menu for navigating and performing tasks.
+
+---
+
+## Features
 
 ### Admin Section
 
-- **Detailed Transaction History**: View detailed histories of transactions for auditing purposes.
-- **Account Suspension**: Suspend suspicious accounts for security measures.
+* **Admin Login:** Restricted access using a fixed PIN for demonstration purposes.
+* **View All Accounts:** Lists all accounts stored in the system.
+* **View Transaction History:** Shows simulated transaction records.
+* **Suspend Accounts:** Demonstrates account suspension by removing account data.
 
 ### Account Management
 
-- **Account Creation**: Allows users to create new bank accounts.
-- **Account Deletion**: Provides functionality to delete bank accounts if needed.
-- **Balance Management**: Enables users to manage their account balances efficiently.
+* **Account Creation:** Users can create simulated bank accounts with unique numbers and passwords.
+* **Account Login:** Secure login simulation.
+* **Account Information:** View details of a simulated account.
+* **Account Deletion:** Permanently remove a simulated account.
 
-### Transaction Tracking
+### Balance and Transactions
 
-- **Transaction Records**: Keeps a comprehensive record of all transactions made within the system for auditing and tracking purposes.
+* **Deposit Money:** Add simulated funds to the account.
+* **Withdraw Money:** Withdraw simulated funds with certain restrictions.
+* **Money Transfer:** Transfer funds between simulated accounts.
+* **Transaction History:** Maintains a record of all simulated transactions.
 
-## Conclusion
+### User Assistance
 
-The Bank Management System University Project offers a robust and secure solution for managing bank accounts efficiently. With features such as detailed transaction history, account suspension, and transaction tracking, it ensures reliability and security in banking operations.
-.
+* **Help & Feedback:** Provides instructions and guidance for using the project.
+* **Credit Section:** Displays project information, version, and author details.
+
+---
+
+## Usage
+
+1. **Compile and Run:** Use a C compiler to run `BankManagementSystem.c`.
+2. **Navigate Menus:** Use `W` (up) and `S` (down) keys to navigate, `Enter` to select, and `Esc` to return to previous menus.
+3. **Simulated Account Operations:** Create accounts, perform deposits, withdrawals, and transfers—all simulated.
+4. **Admin Access:** Log in using the admin PIN to view or manage simulated accounts.
+
+---
+
+## Technical Details
+
+* **Language:** C
+* **Storage:** Uses CSV files (`Accounts Information.Csv` and `Transactions.Csv`) to simulate persistent storage.
+* **Password Security:** 4-digit numeric passwords (for simulation only).
+* **Transaction Rules:** Withdrawal limited to 65% of the balance and must be in multiples of 500 (simulated rules).
+
+---
